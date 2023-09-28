@@ -93,7 +93,7 @@ docker exec -it backend sh -c "python manage.py createsuperuser"
 
 ## Database schema
 <p align="center">
-<img src="https://github.com/H-VICTOOR/TechCafe-Backend/blob/main/demo/database_schema.png" alt="database schema" width="300"/>
+<img src="https://github.com/H-VICTOOR/TechCafe-Backend/blob/main/demo/database_schema.png" alt="database schema"/>
 </p>
 
 ## license
