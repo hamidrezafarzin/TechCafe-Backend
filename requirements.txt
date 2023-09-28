@@ -1,0 +1,41 @@
+# general modules 
+django >3.2<3.3
+Pillow
+djangorestframework
+django-cors-headers
+
+
+# database client
+psycopg2-binary
+
+# env controlls
+python-decouple
+
+# test
+pytest
+pytest-django
+
+# Third party modules
+markdown
+django-filter
+drf-yasg[validation]
+djangorestframework-simplejwt
+az-iranian-bank-gateways
+
+# deployment modules
+gunicorn
+
+# background proccses and cache 
+celery
+redis
+django-redis
+
+
+# sms pannel
+zeep
+requests
+aiohttp
+asyncio
+
+# query checking 
+django-silk
