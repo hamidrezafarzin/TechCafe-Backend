@@ -25,6 +25,9 @@ This the backend source code of tech cafe website. used django rest framework an
 - Bank Gateway
 - Discount model
 - Checkin System for users
+- celery (background task)
+- OTP system
+- redis cache
 
 ## Getting Started
 
