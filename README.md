@@ -11,6 +11,7 @@
   - [License](#license)
 
 ## Introduction
+CafeTech is a dynamic startup dedicated to enhancing event experiences. We specialize in organizing a diverse range of events, spanning both in-person gatherings and virtual meetups. Our mission is to connect people, foster knowledge-sharing, and create unforgettable moments through our innovative event platform.
 
 This the backend source code of tech cafe website. used django rest framework and postgres database 
 
